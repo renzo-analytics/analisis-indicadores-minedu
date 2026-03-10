@@ -115,7 +115,19 @@ El análisis permite identificar:
 Estos resultados pueden contribuir al **diagnóstico de capacidades institucionales del sistema educativo**.
 
 ---
+# 📊 Resultados del análisis
 
+## Cumplimiento promedio por región
+
+![Cumplimiento por región](outputs/graphs/cumplimiento_region.png)
+
+Este gráfico muestra el nivel promedio de cumplimiento de las Unidades Ejecutoras según región.
+
+## Distribución del indicador de cumplimiento
+
+![Distribución del indicador](outputs/graphs/distribucion_indicador.png)
+
+El histograma permite observar la distribución del indicador de cumplimiento entre las unidades analizadas.
 # 💻 Herramientas utilizadas
 
 * **Stata**
