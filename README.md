@@ -166,3 +166,4 @@ Intereses:
 * políticas públicas
 * economía aplicada
 * analítica para toma de decisiones
+* evaluacion de impacto
